@@ -1,6 +1,18 @@
-# OpenAI API Quickstart - Python example app
+# OpenAI Project - The Teenager Translator
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
+Do you sometimes wish the teenagers you interact with could be more polite and give you more than one word answers? Use this translator to give you a warm and fuzzy feeling whenever you interact with a teenager's messages.
+
+Here's a screenshot showing sample output using `perhaps` as input:
+
+![screenshot](static/preview.png)
+
+## Potential wider application
+
+Although this is a light hearted application, a more business orientated application might be able to allow customer service staff to generate replies to customers messages via an input of only a few words.
+
+## Background
+
+This repository is based upon the example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Follow the instructions below to get set up.
 
 ## Setup
 
@@ -11,7 +23,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd openai-example-tt
    ```
 
 4. Create a new virtual environment
@@ -41,4 +53,8 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    $ flask run
    ```
 
-You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
+You should now be able to access the app at [http://localhost:5000](http://localhost:5000)!
+
+## Attributions
+
+<a href="https://www.flaticon.com/free-icons/angry" title="angry icons">Angry icons created by Fathema Khanom - Flaticon</a>
