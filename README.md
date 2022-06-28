@@ -8,7 +8,7 @@ Here's a screenshot showing sample output using `perhaps` as input:
 
 ## Potential wider application
 
-Although this is a light hearted application, a more business orientated application might be able to allow customer service staff to generate replies to customers messages via an input of only a few words.
+Although this is a light hearted application, a more business oriented application might be able to allow customer service staff to generate replies to customers messages via an input of only a few words.
 
 ## Background
 
